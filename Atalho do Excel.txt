@@ -1,0 +1,28 @@
+Selecionar toda tabela - CTRL + T
+Navegar até as ultimas celulas preenchidas de uma tabela ou planilha - CTRL + Setas
+Abri a janela do IR PARA - F5 (nomear a tabela)
+Seleciona todas celulas preenchidas - CTRL + SHIFT + Setas
+Selecionar uma coluna inteira - CTRL + Espaço
+Selecionar uma linha inteira - SHIFT + Espaço
+Adicionar - CTRL + SHIFT + Mais
+Excluir - CTRL + Menos
+Colocar e retirar os filtros - CTRL + SHIFT + L
+Selecionar as opções dos filtros - ALT + Seta para baixo
+Formatar com tabela - CTRL + ALT + T
+Abrir a janela de formatar celulas - CTRL + 1
+Copiar e colocar como valor - ALT + C + V + V
+Copiar e colocar como transporsto - ALT + C + V + T
+Criar grafico - ALT + F1
+Preenchimento relampago - CTRL + E
+Colocar uma linha entre duas linhas especificas - SHIFT + Espaço
+Colocar a data - CTRL + ;
+Colocar hora - CTRL + SHIFT + ;
+Quebra texto automaticamente - ALT + ENTER
+
+
+
+
+
+
+
+
